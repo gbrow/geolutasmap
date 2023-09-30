@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "geofronteira",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { }, "geometry": { "type": "LineString", "coordinates": [ [ -53.987058702093499, -24.581229269546498 ], [ -54.812888991246538, -22.257706761082009 ], [ -55.050840091510977, -24.777188999176033 ], [ -54.085038566908267, -24.623220640181398 ] ] } },
+{ "type": "Feature", "properties": { }, "geometry": { "type": "LineString", "coordinates": [ [ -55.03684296796601, -24.847174616900865 ], [ -54.308992543627738, -26.204895600762647 ], [ -54.043047196273363, -24.693206257906233 ] ] } }
+]
+}
